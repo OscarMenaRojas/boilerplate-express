@@ -1,5 +1,5 @@
-var express = require('express');
-var app = express();
+express = require('express');
+app = express();
 
 console.log("Hello World");
 
